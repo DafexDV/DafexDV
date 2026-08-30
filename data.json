@@ -1,0 +1,16 @@
+{
+  "template": "simple",
+  "data": {
+    "description": "Hi, I enjoy to code some stuff and contribute sometimes to open-source projects.",
+    "skills": [
+      "java",
+      "python",
+      "typescript",
+      "rust"
+    ],
+    "contact": {
+      "email": "dafexdev@gmail.com",
+      "discord": "DafexDV"
+    }
+  }
+}
