@@ -11,4 +11,4 @@ Hi, I enjoy to code some stuff and contribute sometimes to open-source projects.
 
 - **Email:** [dafexdev@gmail.com](mailto:dafexdev@gmail.com)
 
-- **Discord:** DafexDV
+- **Discord:** dafexdv
